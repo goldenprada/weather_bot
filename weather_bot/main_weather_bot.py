@@ -1,4 +1,3 @@
-from email import message
 import requests
 import datetime
 from config import bot_token, open_weather_token
